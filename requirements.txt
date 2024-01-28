@@ -3,4 +3,4 @@ numpy
 numpy-financial
 pandas
 yfinance
-scipy.stats
+scipy
